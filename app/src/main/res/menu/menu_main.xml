@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.propertyinfoapp.MainActivity">
+    <item
+        android:id="@+id/add_the_details"
+        android:title="Insert Details"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/delete_the_details"
+        android:title="Delete Details"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/Update_the_details"
+        android:title="Update Details"
+        app:showAsAction="ifRoom" />
+</menu>
